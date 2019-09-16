@@ -1,6 +1,6 @@
-token=
-owner=  
-prefix= 
-game= Type help
+token=NjIyMTk0MTM2NTE0MTY2Nzg0.XX-DCw.0UmVLvdT8WBk-zZG8s8ZvtNSinc
+owner=  458146650758840320
+prefix=  Jz
+game=Type Jzplay
 stayinchannel=true
-songinstatus=true
+songinstatus=false
