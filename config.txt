@@ -1,4 +1,4 @@
-token=NjIzMTUwODY5MTY4MzkwMTQ2.XX-Qlg.gnosoq0AdtRaYec5RN-BwJnYT-k
+token=NjIzMTU2NDk5Mzc5OTEyNzIw.XX-Vwg.Da-eE3mzqfza_qeRAvuD5lUZMcw
 owner=  458146650758840320
 prefix=  Jz
 game=Type Jzplay
